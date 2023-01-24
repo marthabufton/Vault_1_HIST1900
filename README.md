@@ -16,7 +16,7 @@ At the end of this session, you will be able to:
 
 ### Part 1 (25 minutes)
 The value of note taking: An historian's method
-- Read Judith Walkowitz's essay On taking notes: https://www.historians.org/research-and-publications/perspectives-on-history/january-2009/on-taking-notes
+- Read Judith Walkowitz's essay On taking notes: [[https://www.historians.org/research-and-publications/perspectives-on-history/january-2009/on-taking-notes]]
 - In small groups, identify the key components of Walkowitz's method of historical note taking
 - Create an Obsidian note that includes these key elements
 - Bonus: go to the Carleton Univesrity Library website at library.carleton.ca and click on the link to Archives and Special Collections. Explore the Archives
