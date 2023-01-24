@@ -16,7 +16,8 @@ At the end of this session, you will be able to:
 
 ### Part 1 (25 minutes)
 The value of note taking: An historian's method
-- Read Judith Walkowitz's essay On taking notes: (https://www.historians.org/research-and-publications/perspectives-on-history/january-2009/on-taking-notes)
+- Read Judith Walkowitz's essay On taking notes: https://www.historians.org/research-and-publications/perspectives-on-history/january-2009/on-taking-notes
+- In small groups, identify the key components of Walkowitz's method of historical note taking
 - Create an Obsidian note that includes these key elements
 - Bonus: go to the Carleton Univesrity Library website at library.carleton.ca and click on the link to Archives and Special Collections. Explore the Archives
 
@@ -24,7 +25,7 @@ The value of note taking: An historian's method
 
 ### Part 2 (25 minutes)
 The value of note taking: A librarian's method
-- Introduction to taking notes for a search: Create a search tracker: (https://docs.google.com/spreadsheets/d/1TqVoCwyxSINQcggMUtxD0uY8TSSA6D24/edit?usp=drive_web&ouid=107787311659933023270&rtpof=true)
+- Introduction to taking notes for a search: Create a search tracker (https://docs.google.com/spreadsheets/d/1TqVoCwyxSINQcggMUtxD0uY8TSSA6D24/edit?usp=drive_web&ouid=107787311659933023270&rtpof=true)
 - Create an Obsidian note to track your search strategy
 - Go to the Carleton Univesrity Library website at library.carleton.ca and do a simple search in Omni for a peer-reviewed journal article on "note taking".
 - Track your search strategy in your Obsidian note
