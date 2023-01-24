@@ -1,3 +1,5 @@
+theme: merlot
+
 # HIST1900
 
 ## January 23, 2023
